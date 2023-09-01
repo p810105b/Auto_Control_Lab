@@ -1,7 +1,7 @@
 # Matlab_Basic
 
 ### Lab1
-1.matrix operation
+1.matrix operation \n
 2.plot function
 3.matrix generation
 4.grade identify

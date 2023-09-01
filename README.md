@@ -16,8 +16,7 @@
 1.feedback system(transfer function and output)  
 2.plot step response3  
 3.generate transfer function by the Mason gain formula  
-4.compute the closed-loop transfer   
-function  
+4.compute the closed-loop transfer function  
 
 ## Lab5
 1.determine the state variable representation from   
